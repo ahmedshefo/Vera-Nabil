@@ -1,5 +1,5 @@
 // Relationship start date
-const relationshipDate = new Date('2025-10-09');  // Vera & Nabil - 7 days ago from Oct 16, 2025
+const relationshipDate = new Date('2025-10-12');  // Vera & Nabil - Since October 12, 2025
 
 // Calculate days together
 function calculateDays(startDate) {
